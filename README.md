@@ -1,6 +1,3 @@
-<div align="center">
-
-<img src=""C:\Users\armsa\Downloads\WhatsApp Image 2026-09-13 at 9.52.20 AM.jpeg"" width="180" height="180" style="border-radius:50%;" />
 
 # 👋 Hi, I'm Armaan Salik
 
